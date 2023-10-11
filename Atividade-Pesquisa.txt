@@ -2,3 +2,24 @@ Aluno: João Helder
 
 Atividade
 
+Commit- É uma ação em programação que registra as mudanças em um sistema de controle de vrsão
+
+Branch- Cópia separada do código onde os desenvolvedores podem fazer alterações sem afetar o código principal, permitindo o desenvolvimento paralelo e posterior integração das mudanças
+
+Merge- É o processo de combinar alterações de ramos de desenvolvimento diferentes em um único conjunto de alterações
+
+Mainline- Linha de desenvolvimento principal de um projeto de software onde o código estável é mantido
+
+Clone- É o processo de criar uma cópia idêntica de um repositório de código
+
+Push- Envia alterações locais para um repositório remoto
+
+Pull- Obtem as alterações mais recentes de um repositório remoto no seu ambiente local
+
+Add- Seleciona as alterações para o "commit" no git
+
+Staged- Significa que as alterações estão prontas para serem incluídas no proximo commit
+
+Version- Refere-se a uma interação específica de um programa ou projeto de software
+
+Repository- É onde o código de um projeto é armezenado e gerenciado
